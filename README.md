@@ -1,4 +1,4 @@
-# CELL
+# IT-Tuning
 This is the repository for the resources of paper "IT-Tuning : Parameter Efficient Information Token Tuning for Language Model"
 
 ## Abstract
