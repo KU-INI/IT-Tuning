@@ -1,0 +1,5 @@
+# CELL
+This is the repository for the resources of paper "IT-Tuning : Parameter Efficient Information Token Tuning for Language Model"
+
+## Abstract
+Recently, language models have demonstrated exceptional performance compared to their predecessors. In this context, attention mechanisms and pre-training significantly contribute to the enhanced performance of modern language models. Additionally, a continuously increasing number of parameters plays a crucial role in these advancements  . However, an increase in the number of parameters significantly increases the GPU memory and training time required during fine-tuning of language models, this makes fine-tuning infeasible in environments with limited computing resources. Furthermore, after fine-tuning, the storage space required for deployment increases proportionally with the number of tasks, making it challenging to deploy devices with limited storage capacities. In this study, we propose IT-Tuning, a  Parameter Efficient Fine-Tuning method that introduces a new concept called information tokens to address these issues.
